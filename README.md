@@ -8,7 +8,7 @@ This uses a basic Kuwahara filter algorithm as a post-processing effect. You can
 
 ## Explanation
 <img width="8591" height="4378" alt="KuwaharaPP Explanation" src="https://github.com/user-attachments/assets/82a5a60e-d143-45fe-a70e-d4aeaff06dde" />
-Overview Explanation of the Kuwahara algorithm with GLSL Shader code
+Explanation of the Basic Kuwahara algorithm with GLSL Shader code
 
 ## References
 [Kuwahara Filter - Wikipedia](https://en.wikipedia.org/wiki/Kuwahara_filter)
