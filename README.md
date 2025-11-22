@@ -12,5 +12,7 @@ Overview Explanation of the Kuwahara algorithm with GLSL Shader code
 
 ## Reference
 [Kuwahara Filter - Wikipedia](https://en.wikipedia.org/wiki/Kuwahara_filter)
+
 [This is the Kuwahara Filter](https://youtu.be/LDhN-JK3U9g?si=iRA5ZvlZsjrGa_rb)
+
 [Edge and Corner Preserving Smoothing for Artistic Imaging](https://www.researchgate.net/publication/221226072_Edge_and_corner_preserving_smoothing_for_artistic_imaging)
