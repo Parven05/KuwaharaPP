@@ -1,2 +1,2 @@
 # KuwaharaPP
-Kuwahara Post Process Filter made in Unity Shader
+Kuwahara Post Process Filter made in Built-in Unity Pipeline
