@@ -10,7 +10,7 @@ This uses a basic Kuwahara filter algorithm as a post-processing effect. You can
 <img width="8591" height="4378" alt="KuwaharaPP Explanation" src="https://github.com/user-attachments/assets/82a5a60e-d143-45fe-a70e-d4aeaff06dde" />
 Overview Explanation of the Kuwahara algorithm with GLSL Shader code
 
-## Reference
+## References
 [Kuwahara Filter - Wikipedia](https://en.wikipedia.org/wiki/Kuwahara_filter)
 
 [This is the Kuwahara Filter by Acerola](https://youtu.be/LDhN-JK3U9g?si=iRA5ZvlZsjrGa_rb)
