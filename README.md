@@ -1,5 +1,5 @@
 # KuwaharaPP
-Kuwahara Post Process Filter made in Built-in Render Pipeline Unity
+Kuwahara Post Process Filter made in Built-in Render Pipeline Unity.
 
 This uses a basic Kuwahara filter algorithm as a post-processing effect. You can control the level of detail by adjusting the filter’s intensity (the kernel size, also called the radius) through a slider.
 
